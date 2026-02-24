@@ -1,0 +1,21 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "moncalvoNewsV1",
+    "repoJson": "testNews",
+    "note": "Usato per test runtime con jsDelivr"
+  },
+  "title": "Moncalvo News",
+  "updatedAt": "2026-02-24T12:00:00Z",
+  "dataAggiornamento": "24 Febbraio 2026",
+  "news": [
+    {
+      "date": "01-01-2026",
+      "type": "Annuncio",
+      "title": "Bacheca",
+      "message": "Per inserire un annuncio come questo scrivere al seguente indirizzo email.",
+      "contatti": {
+        "Email": "info@example.com"
+      }
+    }
+  ]
+}
