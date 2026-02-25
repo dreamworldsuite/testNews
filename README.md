@@ -2,8 +2,8 @@
 
 folders json files:
 
-maps/                    </br>
-towns/                 </br>
+test72/maps/                    </br>
+test72/towns/                 </br>
 
 Tags:
 
