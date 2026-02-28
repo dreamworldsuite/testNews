@@ -2,9 +2,10 @@
 
 folders json files:
 
-test72/maps/                    </br>
-test72/towns/                 </br>
+test73/maps/                  </br>
+test73/towns/                 </br>
 
 Tags:
 
 v0.1.72         -> 25 Febbraio 26
+v0.1.73         -> 28 Febbraio 26

@@ -1,10 +1,10 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "cerroTanaroNewsV1",
+    "nomeJson": "cAnnoneNewsV1",
     "repoJson": "testNews",
     "note": "Usato per test runtime con jsDelivr"
   },
-  "title": "Cerro Tanaro\nTavola dei Bandi",
+  "title": "Castel d'Annone\nTavola dei Bandi",
   "updatedAt": "2026-02-25T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "news": [

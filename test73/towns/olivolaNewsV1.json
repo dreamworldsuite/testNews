@@ -1,11 +1,11 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "alfianoNewsV1",
+    "nomeJson": "olivolaNewsV1",
     "repoJson": "testNews",
     "note": "Usato per test runtime con jsDelivr"
   },
-  "title": "Alfiano\nTavola dei Bandi",
-  "updatedAt": "2026-02-25T12:00:00Z",
+  "title": "Olivola\nTavola dei Bandi",
+  "updatedAt": "2026-02-28T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "news": [
 	{

@@ -1,0 +1,74 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "mappaNewsV1",
+    "repoJson": "testNews",
+    "note": "Usato per test runtime con jsDelivr"
+  },
+  "title": "Monferrato\nTavola dei Bandi",
+  "updatedAt": "2026-02-28T12:00:00Z",
+  "dataAggiornamento": "MCDXXXIV",
+  "news": [
+    {
+      "date": "22-11-2025",
+      "type": "Aggiornamento",
+      "title": " ",
+      "message": "CREATO\nil file buildingsV1Test73.json\ncon aggiunta di nuovi luoghi\ne pushato su github il 27 febbraio"
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Informazione",
+	  "title": "CREATO",
+      "message": "il file buildingsV1Test73.json con aggiunta di nuovi luoghi e pushato su github il 27 febbraio"
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Annuncio",
+      "title": " ",
+      "message": "Pronti per l'estate?",
+      "Indirizzo": "Piazza Castello 25",
+      "telefoni": [
+        "+39 333 1234567",
+        "+39 320 9998877"
+      ],
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Avviso",
+      "title": " ",
+      "telefoni": [
+        "+39 333 1234567",
+        "+39 320 9998877"
+      ],
+      "Indirizzo": "Piazza Castello 25",
+      "message": "Orario 8-12"
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Errore",
+      "title": " ",
+      "contatti": {
+        "Indirizzo": "www.negozio.it",
+        "Telefono": "+39 333 1234567",
+        "Email": "info@example.com"
+      },
+      "telefoni": [
+        "+39 333 1234567",
+        "+39 320 9998877"
+      ],
+      "message": "Orario 8-12"
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Aggiornamento",
+      "title": " ",
+      "telefoni": [
+        "+39 333 1234567",
+        "+39 320 9998877"
+      ],
+      "contatti": {
+        "Email": "info@example.com"
+      },
+      "message": "Piazza Castello 25"
+    }
+  ]
+}

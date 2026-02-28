@@ -1,11 +1,11 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "cAnnoneNewsV1",
+    "nomeJson": "ozzanoNewsV1",
     "repoJson": "testNews",
     "note": "Usato per test runtime con jsDelivr"
   },
-  "title": "Castello d'Annone\nTavola dei Bandi",
-  "updatedAt": "2026-02-25T12:00:00Z",
+  "title": "Ozzano\nTavola dei Bandi",
+  "updatedAt": "2026-02-28T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "news": [
 	{
