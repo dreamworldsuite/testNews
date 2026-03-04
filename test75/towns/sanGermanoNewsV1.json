@@ -1,11 +1,11 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "sgermanoNewsV1",
+    "nomeJson": "sanGermanoNewsV1",
     "repoJson": "testNews",
     "note": "Usato per test runtime con jsDelivr"
   },
   "title": "San Germano\nTavola dei Bandi",
-  "updatedAt": "2026-03-01T12:00:00Z",
+  "updatedAt": "2026-03-04T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "news": [
     {
